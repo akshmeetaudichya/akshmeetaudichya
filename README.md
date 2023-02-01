@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshmeetaudichya
-- 👀 I’m interested in frontend developing
-- 🌱 I’m currently learning JS, Advance JS, React JS, Dot Net
+- 👀 I’m interested in UI UX design, Social Media Marketing, Frontend Development
+- 🌱 I’m currently learning JS, React JS and React Native for mobile and web Development.
 - 📫 You can reach me on akshmeet.audichya@gmail.com
 
 <!---
